@@ -11,3 +11,4 @@ Mobile app platform: Android. (vivo1908_19-Android version 8.1.0)
 3. Test Approach:
 Type of Test: Unit testing, Integration testing, System testing, User Acceptance testing.
 
+N.B: please download the two attached files to view
